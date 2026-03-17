@@ -1,0 +1,15 @@
+U12swan, Unit 12 Swan Building, 100.0, 5
+U13swan, Unit 13 Swan Building, 190.70, 2
+SI1, Car Park, 25.00
+U20goose, Unit 20 Goose Building, 165.00, 1
+U21goose, Unit 21 Goose Building, 175.00, 2
+U22goose, Unit 22 Goose Building, 185.00, 3
+SI2, Breakfast, 25.30
+SI3, Tooth brush, 10.00
+SI4, Tooth paste, 10.0
+SI5, Shampoo, 20.50
+U62duck, Unit 62 Duck Building, 134.50, 2
+U63duck, Unit 63 Duck Building, 148.00, 3
+SI6, Double extra bed (2 people), 50
+B1, Bed and breakfast for two, U12swan, SI2, SI2, SI1, 220.48
+B2, Bed and breakfast family deluxe, U22goose, SI2, SI2, SI2, SI2, SI1, SI6, 712.96
