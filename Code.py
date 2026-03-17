@@ -1,7 +1,3 @@
-# Name : Siona Misha Nazareth
-# Student ID: s4106743
-# Highest attempted - All parts
-# Problems - None
 
 
 import csv
